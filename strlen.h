@@ -1,1 +1,1 @@
-int strlen(char *str);
+long unsigned int strlen(const char *str);
